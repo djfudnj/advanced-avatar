@@ -1,0 +1,11 @@
+{
+    "display_name": "Advanced Avatar",
+    "loading_order": 200,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "",
+    "author": "djfudnj",
+    "version": "1.0.0",
+    "homePage": ""
+}
