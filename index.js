@@ -53,7 +53,7 @@ SlashCommandParser.addCommandObject(SlashCommand.fromProps({
     ],
     unnamedArgumentList: [
         SlashCommandArgument.fromProps({ 
-            description: 'avatar path (e.g., "/characters/Monastery3/Adriano.jpg")',
+            description: 'avatar path (e.g., "/characters/Seraphina/fear.png")',
             typeList: [ARGUMENT_TYPE.STRING],
             isRequired: true,
         }),
